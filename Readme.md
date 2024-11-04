@@ -1,4 +1,4 @@
-# Factory Pattern (Creational)
+# Factory Pattern
 
 The **Factory Design Pattern** is a **creational design pattern** that provides a way to create objects without specifying the exact class of object that will be created. Instead of using `new` to instantiate objects directly, the Factory pattern uses a factory method to create and return the objects. This pattern promotes loose coupling by isolating the instantiation of objects from the client code.
 
